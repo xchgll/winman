@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "winman"
+version = "1.0.1"
+authors = [
+    { name="xchgll", email="no@email.com" }
+]
+description = "WinMan is an offline documentation for WIN/NT API with a man pages taste."
+requires-python = ">=3.8"
+
+[project.scripts]
+winman = "winman:main"
