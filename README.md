@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/stars/xchgll/winman" alt="Windows Man Pages">
   <img src="https://img.shields.io/github/forks/xchgll/winman" alt="Windows Man Pages">
   <img src="https://img.shields.io/twitter/follow/xchgll" alt="Windows Man Pages">
+  <img src="https://static.pepy.tech/personalized-badge/winman?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)">
 </p>
 
 
@@ -31,7 +32,7 @@ the tool downloads the documentation only one time, then you can browse it fully
 only run
 
 ```bash
-pip install winman==1.0.1
+pip install winman==1.0.2
 ```
 
 - Note: on windows do not forget to add Python Scripts Path to your environment variables
